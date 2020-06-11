@@ -28,7 +28,7 @@ protected://это protected
 
 	bool winner;
 
-public:
+public://this is protected
 
 	Ippo() {};
 
