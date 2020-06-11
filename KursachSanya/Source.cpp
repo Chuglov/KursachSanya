@@ -12,7 +12,7 @@ class Ippo
 
 {
 
-protected:
+protected://это protected
 
 	class Observer* views;
 
