@@ -12,7 +12,7 @@ class Ippo
 
 {
 
-protected://это protected
+protected:
 
 	class Observer* views;
 
@@ -28,7 +28,7 @@ protected://это protected
 
 	bool winner;
 
-public://this is protected
+public:
 
 	Ippo() {};
 
